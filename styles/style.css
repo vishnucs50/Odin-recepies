@@ -1,0 +1,42 @@
+body{
+    background-color: #FEFFD2;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.recepie-list{
+    margin-top: 30px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:link, a:visited{
+    text-decoration: none;
+    color: #FF7D29;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+/* Styling the recepie pages */
+.recepie-body{
+    background-color: #DEF9C4;
+}
+.recepie-image{
+    margin-left: 32%;
+}
+
+div > p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body > ul, body div p, ol{
+    color: #973131;
+}
+
+body > h2, div h2{
+    color: #2F3645;
+}
